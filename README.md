@@ -1,0 +1,1 @@
+Neon Invaders é um projeto simples em HTML, CSS e JS, onde criei para relembrar conceitos básicos de eventos em JS. Trata-se de um clone do game clássico de arcade, Space Invaders.
