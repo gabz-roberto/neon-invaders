@@ -1,4 +1,4 @@
-# 🚀 Neon Invaders
+# Neon Invaders
 
 Neon Invaders é um projeto simples desenvolvido com **HTML, CSS e JavaScript**, criado com o objetivo de revisitar conceitos fundamentais da linguagem, especialmente manipulação de eventos e lógica de jogos.
 
@@ -8,7 +8,7 @@ O projeto é inspirado no clássico arcade **Space Invaders**, trazendo uma iden
 
 ![Neon Invaders](./neon-invaders-preview.png)
 
-## 🎮 Funcionalidades
+## Funcionalidades
 
 - Movimentação da nave
 - Sistema de disparos
@@ -17,12 +17,12 @@ O projeto é inspirado no clássico arcade **Space Invaders**, trazendo uma iden
 - Sistema de vidas
 - Visual neon com efeitos de brilho
 
-## 🛠️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 - HTML5
 - CSS3
 - JavaScript (Vanilla)
 
-## 🎯 Objetivo
+## Objetivo
 
 Este projeto foi desenvolvido como exercício prático para reforçar conceitos básicos de JavaScript, manipulação do DOM e eventos, sem a utilização de frameworks ou bibliotecas externas.
