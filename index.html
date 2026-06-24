@@ -1,0 +1,25 @@
+<!doctype html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Neon Invaders</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="ui">
+      <div id="score">Pontos: 0</div>
+      <div id="lives">Vidas: 3</div>
+    </div>
+
+    <canvas id="game" width="900" height="650"></canvas>
+
+    <div class="game-over" id="gameOver">
+      <h1>GAME OVER</h1>
+      <p id="finalScore"></p>
+      <button onclick="restart()">Jogar Novamente</button>
+    </div>
+
+    <script src="script.js"></script>
+  </body>
+</html>
